@@ -1,6 +1,6 @@
 # WeatherApp
 
-This is a simple web-based application to fetch and display current weather conditions by city name or postal code using the OpenWeatherMap API.
+This is a simple web-based application to fetch and display current weather conditions by city name using the OpenWeatherMap API.
 
 - Features
 Search for weather by city name or postal code
